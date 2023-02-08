@@ -1,2 +1,2 @@
 #!/bin/bash
-task 0 is git clone
+pwd
